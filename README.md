@@ -8,7 +8,7 @@ Grandes volúmenes de datos
 - Vectorización
 - Tensores
 
-[numPy](https://colab.research.google.com/drive/17xLjMQEcCkqCUeVyxlp77g_MRoJASkqy#scrollTo=2bMzPjIEprGa)
+[NumPy](https://colab.research.google.com/drive/17xLjMQEcCkqCUeVyxlp77g_MRoJASkqy#scrollTo=2bMzPjIEprGa)
 
 ## Manipulación de Datos
 - Operaciones 1D, 2D
@@ -20,6 +20,34 @@ Grandes volúmenes de datos
 
 [Manipulación de Datos](https://colab.research.google.com/drive/1H6H-MBNdTD6L3slE4rGXHc_nxfLheEPx)
 
-## Procesamiento en Paralelo
+## Análisis de Datos
+- Álgebra Lineal
+- Manipulación de Imágenes
+- Sistemas Dinámicos Caóticos
 
+[Análisis de Datos](https://colab.research.google.com/drive/1cTfbYQS-6YwO5_04M5dT_C2IR6k4bp19)
+
+## Procesamiento de Big Data
+- Carga
+- Optimización de Memoria
+- Procesamiento en Paralelo
+- Datos faltantes
+- Operaciones Vectorizadas
+- Carga de dsitintos tipos de fuente
+- Verificar la Calidad de los Datos
+
+[Procesamiento de Big Data](https://colab.research.google.com/drive/1zU1hFIl2eGscPV06Al9rS_nUgxU1TAuH)
+
+## Preprocesamiento y Procesamiento de Datos
+Ejercicio hands-on
+[Preprocesamiento y Procesamiento de Datos](https://colab.research.google.com/drive/1kvXFDKHivuU0EUyhcMN_YGEkJNQLVOCN)
+
+
+## Procesamiento en Paralelo
+- Introducción
+- Ventajas / Desventajas
+- Multiprocessing
 [Procesamiento en Paralelo](https://colab.research.google.com/drive/1YW0vcrtkSWIIFCjZmz-Fhn8nzuBKx0g7)
+
+
+
