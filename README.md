@@ -1,5 +1,5 @@
-# bsg_grandes_volumenes_datos
-Grandes volúmenes de datos
+# Curso Grandes Volúmenes de Datos
+Colabs:
 
 ## NumPy
 - Introducción
@@ -39,7 +39,8 @@ Grandes volúmenes de datos
 [Procesamiento de Big Data](https://colab.research.google.com/drive/1zU1hFIl2eGscPV06Al9rS_nUgxU1TAuH)
 
 ## Preprocesamiento y Procesamiento de Datos
-Ejercicio hands-on
+- Ejercicio hands-on
+
 [Preprocesamiento y Procesamiento de Datos](https://colab.research.google.com/drive/1kvXFDKHivuU0EUyhcMN_YGEkJNQLVOCN)
 
 
@@ -47,7 +48,10 @@ Ejercicio hands-on
 - Introducción
 - Ventajas / Desventajas
 - Multiprocessing
+
 [Procesamiento en Paralelo](https://colab.research.google.com/drive/1YW0vcrtkSWIIFCjZmz-Fhn8nzuBKx0g7)
 
+Dudas o comentarios: dalopeznoria@gmail.com
 
 
+da
