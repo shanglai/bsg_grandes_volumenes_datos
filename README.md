@@ -1,4 +1,6 @@
-# Curso Grandes Volúmenes de Datos
+# Curso Grandes Volúmenes de Datos con Python
+## Material Complemento a las Clases
+
 Colabs:
 
 ## NumPy
@@ -52,6 +54,3 @@ Colabs:
 [Procesamiento en Paralelo](https://colab.research.google.com/drive/1YW0vcrtkSWIIFCjZmz-Fhn8nzuBKx0g7)
 
 Dudas o comentarios: dalopeznoria@gmail.com
-
-
-da
