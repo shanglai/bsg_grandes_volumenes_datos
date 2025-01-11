@@ -1,7 +1,7 @@
 # Curso Grandes Volúmenes de Datos con Python
-## Material Complemento a las Clases
+Material Complementario para las Clases
 
-Colabs:
+## Colabs
 
 ## NumPy
 - Introducción
