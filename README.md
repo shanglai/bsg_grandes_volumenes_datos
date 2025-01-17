@@ -70,4 +70,7 @@ Material Complementario para las Clases
 ## Complejidad y Árboles
 [Complejidad y Árboles](https://colab.research.google.com/drive/1YW0vcrtkSWIIFCjZmz-Fhn8nzuBKx0g7)
 
+## Notas del curso
+
+[Presentación](https://1drv.ms/p/c/8056570b53c9ee89/EcoJCg3Yn0xNs7rysTsTxEgBqF_ei-ccrFr2732szjIOoA?e=hmAfze)
 Dudas o comentarios: dalopeznoria@gmail.com
