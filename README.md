@@ -53,9 +53,11 @@ Material Complementario para las Clases
 
 [Procesamiento en Paralelo](https://colab.research.google.com/drive/1YW0vcrtkSWIIFCjZmz-Fhn8nzuBKx0g7)
 
-## Estructuras de Datos
+## Estructuras de Datos y Algoritmos de Búsqueda y Ordenamiento
 - Lineales
 - No Lineales
+- Algoritmos de Búsqueda
+- Algoritmos de Ordenamiento
 
 [Estructuras de Datos](https://colab.research.google.com/drive/1bRepsXfx-CpRNFPOfi2pIbEt_IIbkWhq)
 
